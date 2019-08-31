@@ -1,4 +1,4 @@
-// Name:
+// Name:Jong Kevin Kim
 // This program displays a diamond pattern to the screen.
 
 #include <iostream>
